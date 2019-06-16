@@ -1,0 +1,1 @@
+C:\WPy64-3720\python-3.7.2.amd64\Scripts\pyuic5.exe -o C:\Python\3Dspiral\mainwindow.py C:\Python\3Dspiral\mainwindow.ui
